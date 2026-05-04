@@ -1,4 +1,17 @@
 [
-  {"number": 1, "device": "Samsung Galaxy S21", "joined_at": "2026-05-04 10:00:00"},
-  {"number": 2, "device": "Xiaomi Redmi Note 12", "joined_at": "2026-05-04 11:30:00"}
+  {
+    "number": 1,
+    "device": "Samsung Galaxy S21",
+    "joined_at": "2026-05-04 10:00:00"
+  },
+  {
+    "number": 2,
+    "device": "Xiaomi Redmi Note 12",
+    "joined_at": "2026-05-04 11:30:00"
+  },
+  {
+    "number": 3,
+    "device": "samsung SM-A225F",
+    "joined_at": "٢٠٢٦-٠٥-٠٥ ٠٠:٠٣:١٧"
+  }
 ]
