@@ -673,5 +673,10 @@
     "number": 135,
     "device": "Xiaomi MIBOX4",
     "joined_at": "٢٠٢٦-٠٥-١٥ ٠٢:١٠:١٩"
+  },
+  {
+    "number": 136,
+    "device": "samsung SM-A165F",
+    "joined_at": "2026-05-15 00:24:52"
   }
 ]
