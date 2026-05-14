@@ -493,5 +493,10 @@
     "number": 99,
     "device": "samsung SM-A217F",
     "joined_at": "2026-05-14 19:50:03"
+  },
+  {
+    "number": 100,
+    "device": "Google TV BOX",
+    "joined_at": "2026-05-14 19:59:23"
   }
 ]
