@@ -578,5 +578,10 @@
     "number": 116,
     "device": "Xiaomi M2101K6P",
     "joined_at": "2026-05-14 20:04:56"
+  },
+  {
+    "number": 117,
+    "device": "realme RMX3263",
+    "joined_at": "2026-05-14 21:05:32"
   }
 ]
