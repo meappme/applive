@@ -363,5 +363,10 @@
     "number": 73,
     "device": "HMD Global Nokia C1",
     "joined_at": "2026-05-14 18:32:10"
+  },
+  {
+    "number": 74,
+    "device": "samsung SM-M225FV",
+    "joined_at": "2026-05-14 18:34:02"
   }
 ]
