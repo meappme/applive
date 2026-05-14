@@ -503,5 +503,10 @@
     "number": 101,
     "device": "Alldocube iPlay_40H",
     "joined_at": "2026-05-14 22:02:08"
+  },
+  {
+    "number": 102,
+    "device": "HONOR BKQ-N49",
+    "joined_at": "2026-05-14 23:06:52"
   }
 ]
