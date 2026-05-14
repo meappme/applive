@@ -413,5 +413,10 @@
     "number": 83,
     "device": "OPPO CPH2015",
     "joined_at": "2026-05-14 19:00:55"
+  },
+  {
+    "number": 84,
+    "device": "samsung SM-S911B",
+    "joined_at": "2026-05-14 20:03:15"
   }
 ]
