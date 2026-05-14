@@ -398,5 +398,10 @@
     "number": 80,
     "device": "SDMC HAKO Pro",
     "joined_at": "2026-05-14 18:57:48"
+  },
+  {
+    "number": 81,
+    "device": "Xiaomi 25078RA3EA",
+    "joined_at": "2026-05-14 17:59:16"
   }
 ]
