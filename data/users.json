@@ -613,5 +613,10 @@
     "number": 123,
     "device": "HUAWEI STK-L21",
     "joined_at": "٢٠٢٦-٠٥-١٤ ٢٣:٥٩:٢٥"
+  },
+  {
+    "number": 124,
+    "device": "samsung SM-A346E",
+    "joined_at": "2026-05-14 22:16:38"
   }
 ]
