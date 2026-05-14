@@ -653,5 +653,10 @@
     "number": 131,
     "device": "Xiaomi 2201117TG",
     "joined_at": "2026-05-14 23:13:19"
+  },
+  {
+    "number": 132,
+    "device": "realme RMX3941",
+    "joined_at": "2026-05-14 23:13:25"
   }
 ]
