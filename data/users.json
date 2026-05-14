@@ -528,5 +528,10 @@
     "number": 106,
     "device": "Allwinner MATADOR",
     "joined_at": "2026-05-14 20:28:20"
+  },
+  {
+    "number": 107,
+    "device": "INFINIX Infinix X678B",
+    "joined_at": "2026-05-14 23:58:59"
   }
 ]
