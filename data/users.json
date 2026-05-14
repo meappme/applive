@@ -518,5 +518,10 @@
     "number": 104,
     "device": "OPPO CPH2375",
     "joined_at": "2026-05-14 20:10:38"
+  },
+  {
+    "number": 105,
+    "device": "realme RMX2180",
+    "joined_at": "2026-05-14 20:13:45"
   }
 ]
