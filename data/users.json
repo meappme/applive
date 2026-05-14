@@ -478,5 +478,10 @@
     "number": 96,
     "device": "ITEL itel C681L",
     "joined_at": "2026-05-14 18:44:33"
+  },
+  {
+    "number": 97,
+    "device": "OPPO CPH2669",
+    "joined_at": "2026-05-14 19:44:56"
   }
 ]
