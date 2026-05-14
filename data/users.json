@@ -418,5 +418,10 @@
     "number": 84,
     "device": "samsung SM-S911B",
     "joined_at": "2026-05-14 20:03:15"
+  },
+  {
+    "number": 85,
+    "device": "Xiaomi 220233L2G",
+    "joined_at": "2026-05-14 19:09:55"
   }
 ]
