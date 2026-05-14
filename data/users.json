@@ -598,5 +598,10 @@
     "number": 120,
     "device": "samsung SM-T500",
     "joined_at": "2026-05-14 21:14:30"
+  },
+  {
+    "number": 121,
+    "device": "Xiaomi 25053PC47G",
+    "joined_at": "2026-05-14 21:19:20"
   }
 ]
