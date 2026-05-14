@@ -623,5 +623,10 @@
     "number": 125,
     "device": "samsung SM-A366B",
     "joined_at": "2026-05-14 21:18:56"
+  },
+  {
+    "number": 126,
+    "device": "Xiaomi 2409BRN2CA",
+    "joined_at": "2026-05-14 21:24:01"
   }
 ]
