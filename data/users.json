@@ -368,5 +368,10 @@
     "number": 74,
     "device": "samsung SM-M225FV",
     "joined_at": "2026-05-14 18:34:02"
+  },
+  {
+    "number": 75,
+    "device": "samsung Pixel 10 Pro",
+    "joined_at": "2026-05-14 20:36:55"
   }
 ]
