@@ -358,5 +358,10 @@
     "number": 72,
     "device": "HONOR DNP-NX9",
     "joined_at": "2026-05-14 20:29:48"
+  },
+  {
+    "number": 73,
+    "device": "HMD Global Nokia C1",
+    "joined_at": "2026-05-14 18:32:10"
   }
 ]
