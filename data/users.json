@@ -603,5 +603,10 @@
     "number": 121,
     "device": "Xiaomi 25053PC47G",
     "joined_at": "2026-05-14 21:19:20"
+  },
+  {
+    "number": 122,
+    "device": "Xiaomi 23053RN02A",
+    "joined_at": "2026-05-14 23:51:49"
   }
 ]
