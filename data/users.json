@@ -523,5 +523,10 @@
     "number": 105,
     "device": "realme RMX2180",
     "joined_at": "2026-05-14 20:13:45"
+  },
+  {
+    "number": 106,
+    "device": "Allwinner MATADOR",
+    "joined_at": "2026-05-14 20:28:20"
   }
 ]
