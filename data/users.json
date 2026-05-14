@@ -488,5 +488,10 @@
     "number": 98,
     "device": "realme RMX3890",
     "joined_at": "٢٠٢٦-٠٥-١٤ ٢١:٤٦:٢٦"
+  },
+  {
+    "number": 99,
+    "device": "samsung SM-A217F",
+    "joined_at": "2026-05-14 19:50:03"
   }
 ]
