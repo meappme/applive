@@ -1008,5 +1008,10 @@
     "number": 202,
     "device": "vivo V2529",
     "joined_at": "2026-05-16 00:17:59"
+  },
+  {
+    "number": 203,
+    "device": "samsung SM-A125F",
+    "joined_at": "2026-05-15 23:18:04"
   }
 ]
