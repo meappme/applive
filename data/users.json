@@ -753,5 +753,10 @@
     "number": 151,
     "device": "samsung SM-S948B",
     "joined_at": "2026-05-15 06:51:45"
+  },
+  {
+    "number": 152,
+    "device": "motorola motorola edge (2021)",
+    "joined_at": "2026-05-15 05:55:04"
   }
 ]
