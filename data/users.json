@@ -873,5 +873,10 @@
     "number": 175,
     "device": "samsung SM-A125F",
     "joined_at": "2026-05-15 16:17:03"
+  },
+  {
+    "number": 176,
+    "device": "realme RMX3710",
+    "joined_at": "2026-05-15 16:55:55"
   }
 ]
