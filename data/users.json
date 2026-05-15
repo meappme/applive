@@ -898,5 +898,10 @@
     "number": 180,
     "device": "Nothing A063",
     "joined_at": "2026-05-15 19:21:20"
+  },
+  {
+    "number": 181,
+    "device": "ZTE nubia 8150N",
+    "joined_at": "2026-05-15 19:52:37"
   }
 ]
