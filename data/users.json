@@ -853,5 +853,10 @@
     "number": 171,
     "device": "HUAWEI CTR-L91",
     "joined_at": "2026-05-15 18:41:36"
+  },
+  {
+    "number": 172,
+    "device": "Xiaomi M2101K9AG",
+    "joined_at": "2026-05-15 15:56:59"
   }
 ]
