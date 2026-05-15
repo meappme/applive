@@ -798,5 +798,10 @@
     "number": 160,
     "device": "Xiaomi 23049RAD8C",
     "joined_at": "2026-05-15 09:45:59"
+  },
+  {
+    "number": 161,
+    "device": "OPPO CPH2375",
+    "joined_at": "2026-05-15 10:55:55"
   }
 ]
