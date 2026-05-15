@@ -1028,5 +1028,10 @@
     "number": 206,
     "device": "Panasonic 4KTV-0SU",
     "joined_at": "2026-05-16 02:38:47"
+  },
+  {
+    "number": 207,
+    "device": "samsung SM-M215G",
+    "joined_at": "2026-05-16 00:53:36"
   }
 ]
