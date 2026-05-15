@@ -823,5 +823,10 @@
     "number": 165,
     "device": "samsung SM-A135F",
     "joined_at": "2026-05-15 12:44:52"
+  },
+  {
+    "number": 166,
+    "device": "samsung SM-S928W",
+    "joined_at": "2026-05-15 12:49:16"
   }
 ]
