@@ -988,5 +988,10 @@
     "number": 198,
     "device": "TECNO TECNO KL5",
     "joined_at": "2026-05-15 21:28:17"
+  },
+  {
+    "number": 199,
+    "device": "samsung SM-S948B",
+    "joined_at": "2026-05-15 21:50:48"
   }
 ]
