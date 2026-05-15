@@ -758,5 +758,10 @@
     "number": 152,
     "device": "motorola motorola edge (2021)",
     "joined_at": "2026-05-15 05:55:04"
+  },
+  {
+    "number": 153,
+    "device": "samsung SM-A715F",
+    "joined_at": "2026-05-15 08:03:14"
   }
 ]
