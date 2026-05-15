@@ -788,5 +788,10 @@
     "number": 158,
     "device": "samsung SM-X216B",
     "joined_at": "2026-05-15 09:36:56"
+  },
+  {
+    "number": 159,
+    "device": "realme RMX3360",
+    "joined_at": "2026-05-15 12:43:49"
   }
 ]
