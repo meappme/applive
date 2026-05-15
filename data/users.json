@@ -1013,5 +1013,10 @@
     "number": 203,
     "device": "samsung SM-A125F",
     "joined_at": "2026-05-15 23:18:04"
+  },
+  {
+    "number": 204,
+    "device": "Xiaomi 22071212AG",
+    "joined_at": "2026-05-16 00:52:54"
   }
 ]
