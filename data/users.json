@@ -723,5 +723,10 @@
     "number": 145,
     "device": "Xiaomi 25040RP0AG",
     "joined_at": "2026-05-15 10:00:56"
+  },
+  {
+    "number": 146,
+    "device": "samsung SM-S928B",
+    "joined_at": "2026-05-15 05:16:52"
   }
 ]
