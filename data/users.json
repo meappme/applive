@@ -858,5 +858,10 @@
     "number": 172,
     "device": "Xiaomi M2101K9AG",
     "joined_at": "2026-05-15 15:56:59"
+  },
+  {
+    "number": 173,
+    "device": "samsung SM-A047F",
+    "joined_at": "2026-05-15 16:02:41"
   }
 ]
