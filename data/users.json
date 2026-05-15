@@ -1018,5 +1018,10 @@
     "number": 204,
     "device": "Xiaomi 22071212AG",
     "joined_at": "2026-05-16 00:52:54"
+  },
+  {
+    "number": 205,
+    "device": "samsung SM-J701F",
+    "joined_at": "2026-05-16 00:19:23"
   }
 ]
