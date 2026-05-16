@@ -1088,5 +1088,10 @@
     "number": 218,
     "device": "samsung SM-S921B",
     "joined_at": "2026-05-16 11:34:18"
+  },
+  {
+    "number": 219,
+    "device": "Xiaomi MiTV-AFKR0",
+    "joined_at": "2026-05-16 13:38:14"
   }
 ]
