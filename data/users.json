@@ -1168,5 +1168,10 @@
     "number": 234,
     "device": "HUAWEI VOG-L29",
     "joined_at": "2026-05-16 15:26:41"
+  },
+  {
+    "number": 235,
+    "device": "HONOR BRP-NX1",
+    "joined_at": "2026-05-16 15:37:45"
   }
 ]
