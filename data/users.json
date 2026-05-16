@@ -1163,5 +1163,10 @@
     "number": 233,
     "device": "nubia Z2464N",
     "joined_at": "2026-05-16 16:25:16"
+  },
+  {
+    "number": 234,
+    "device": "HUAWEI VOG-L29",
+    "joined_at": "2026-05-16 15:26:41"
   }
 ]
