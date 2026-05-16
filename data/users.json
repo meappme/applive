@@ -1153,5 +1153,10 @@
     "number": 231,
     "device": "samsung SM-A127F",
     "joined_at": "2026-05-16 13:24:35"
+  },
+  {
+    "number": 232,
+    "device": "realme RMX3941",
+    "joined_at": "2026-05-16 14:55:14"
   }
 ]
