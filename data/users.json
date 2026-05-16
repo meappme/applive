@@ -1213,5 +1213,10 @@
     "number": 243,
     "device": "Xiaomi 23117RA68G",
     "joined_at": "2026-05-16 19:41:30"
+  },
+  {
+    "number": 244,
+    "device": "OPPO CPH2307",
+    "joined_at": "2026-05-16 21:26:29"
   }
 ]
