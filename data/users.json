@@ -1193,5 +1193,10 @@
     "number": 239,
     "device": "samsung SM-A022F",
     "joined_at": "2026-05-16 17:01:42"
+  },
+  {
+    "number": 240,
+    "device": "HUAWEI JNY-LX1",
+    "joined_at": "2026-05-16 19:12:52"
   }
 ]
