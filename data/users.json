@@ -1053,5 +1053,10 @@
     "number": 211,
     "device": "samsung SM-A055F",
     "joined_at": "2026-05-16 05:17:30"
+  },
+  {
+    "number": 212,
+    "device": "samsung SM-A705FN",
+    "joined_at": "2026-05-16 06:53:52"
   }
 ]
