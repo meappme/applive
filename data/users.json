@@ -1058,5 +1058,10 @@
     "number": 212,
     "device": "samsung SM-A705FN",
     "joined_at": "2026-05-16 06:53:52"
+  },
+  {
+    "number": 213,
+    "device": "realme RMX3710",
+    "joined_at": "2026-05-16 07:18:47"
   }
 ]
