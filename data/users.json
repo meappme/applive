@@ -1108,5 +1108,10 @@
     "number": 222,
     "device": "samsung SM-A516B",
     "joined_at": "٢٠٢٦-٠٥-١٦ ١٤:٢٤:٠٥"
+  },
+  {
+    "number": 223,
+    "device": "samsung SM-A326B",
+    "joined_at": "٢٠٢٦-٠٥-١٦ ١٤:٣٠:٠٣"
   }
 ]
