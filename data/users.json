@@ -1078,5 +1078,10 @@
     "number": 216,
     "device": "realme RMX3686",
     "joined_at": "2026-05-16 09:15:55"
+  },
+  {
+    "number": 217,
+    "device": "samsung SM-A055F",
+    "joined_at": "2026-05-16 09:57:04"
   }
 ]
