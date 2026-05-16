@@ -1118,5 +1118,10 @@
     "number": 224,
     "device": "OPPO CPH2273",
     "joined_at": "2026-05-16 12:30:56"
+  },
+  {
+    "number": 225,
+    "device": "OPPO CPH2565",
+    "joined_at": "2026-05-16 12:39:13"
   }
 ]
