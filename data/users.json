@@ -1073,5 +1073,10 @@
     "number": 215,
     "device": "samsung SM-S928B",
     "joined_at": "2026-05-16 10:43:33"
+  },
+  {
+    "number": 216,
+    "device": "realme RMX3686",
+    "joined_at": "2026-05-16 09:15:55"
   }
 ]
