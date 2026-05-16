@@ -1173,5 +1173,10 @@
     "number": 235,
     "device": "HONOR BRP-NX1",
     "joined_at": "2026-05-16 15:37:45"
+  },
+  {
+    "number": 236,
+    "device": "Google X96Q_PRO",
+    "joined_at": "2026-05-16 16:06:49"
   }
 ]
