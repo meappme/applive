@@ -1388,5 +1388,10 @@
     "number": 278,
     "device": "TECNO TECNO CM5",
     "joined_at": "2026-05-17 21:49:45"
+  },
+  {
+    "number": 279,
+    "device": "HUAWEI STK-L21",
+    "joined_at": "2026-05-18 00:43:41"
   }
 ]
