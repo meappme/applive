@@ -1258,5 +1258,10 @@
     "number": 252,
     "device": "samsung SM-M515F",
     "joined_at": "2026-05-17 04:42:18"
+  },
+  {
+    "number": 253,
+    "device": "ITEL itel S686LN",
+    "joined_at": "2026-05-17 02:18:33"
   }
 ]
