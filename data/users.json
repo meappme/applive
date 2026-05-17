@@ -1243,5 +1243,10 @@
     "number": 249,
     "device": "samsung SM-M115F",
     "joined_at": "2026-05-17 00:55:59"
+  },
+  {
+    "number": 250,
+    "device": "HUAWEI MAR-LX1A",
+    "joined_at": "2026-05-17 01:03:17"
   }
 ]
