@@ -1263,5 +1263,10 @@
     "number": 253,
     "device": "ITEL itel S686LN",
     "joined_at": "2026-05-17 02:18:33"
+  },
+  {
+    "number": 254,
+    "device": "Xiaomi Redmi Note 8",
+    "joined_at": "2026-05-17 05:26:35"
   }
 ]
