@@ -1333,5 +1333,10 @@
     "number": 267,
     "device": "samsung SM-A165F",
     "joined_at": "2026-05-17 17:37:35"
+  },
+  {
+    "number": 268,
+    "device": "Allwinner A97_PRO",
+    "joined_at": "2026-05-17 17:55:15"
   }
 ]
