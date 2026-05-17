@@ -1368,5 +1368,10 @@
     "number": 274,
     "device": "Xiaomi M2101K6G",
     "joined_at": "2026-05-17 20:18:02"
+  },
+  {
+    "number": 275,
+    "device": "HONOR DNN-AN00",
+    "joined_at": "2026-05-17 19:28:06"
   }
 ]
