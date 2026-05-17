@@ -1253,5 +1253,10 @@
     "number": 251,
     "device": "Xiaomi 2412DPC0AG",
     "joined_at": "2026-05-17 04:37:31"
+  },
+  {
+    "number": 252,
+    "device": "samsung SM-M515F",
+    "joined_at": "2026-05-17 04:42:18"
   }
 ]
