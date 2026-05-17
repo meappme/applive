@@ -1323,5 +1323,10 @@
     "number": 265,
     "device": "Xiaomi 23129RN51X",
     "joined_at": "2026-05-17 14:24:02"
+  },
+  {
+    "number": 266,
+    "device": "HUAWEI SNE-LX1",
+    "joined_at": "2026-05-17 17:01:39"
   }
 ]
