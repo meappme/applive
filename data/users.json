@@ -1268,5 +1268,10 @@
     "number": 254,
     "device": "Xiaomi Redmi Note 8",
     "joined_at": "2026-05-17 05:26:35"
+  },
+  {
+    "number": 255,
+    "device": "Xiaomi 23013PC75G",
+    "joined_at": "2026-05-17 07:10:41"
   }
 ]
