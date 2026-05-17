@@ -1298,5 +1298,10 @@
     "number": 260,
     "device": "Xiaomi 2510ERA8BG",
     "joined_at": "2026-05-17 11:58:27"
+  },
+  {
+    "number": 261,
+    "device": "samsung SM-A146P",
+    "joined_at": "2026-05-17 12:39:29"
   }
 ]
