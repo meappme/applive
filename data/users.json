@@ -1398,5 +1398,10 @@
     "number": 280,
     "device": "Xiaomi 25028RN03A",
     "joined_at": "٢٠٢٦-٠٥-١٨ ٠٠:٥٤:٣٧"
+  },
+  {
+    "number": 281,
+    "device": "samsung SM-T725",
+    "joined_at": "2026-05-17 23:04:11"
   }
 ]
