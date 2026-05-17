@@ -1403,5 +1403,10 @@
     "number": 281,
     "device": "samsung SM-T725",
     "joined_at": "2026-05-17 23:04:11"
+  },
+  {
+    "number": 282,
+    "device": "samsung SM-A135F",
+    "joined_at": "2026-05-17 23:22:14"
   }
 ]
