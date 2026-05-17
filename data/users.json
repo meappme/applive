@@ -1248,5 +1248,10 @@
     "number": 250,
     "device": "HUAWEI MAR-LX1A",
     "joined_at": "2026-05-17 01:03:17"
+  },
+  {
+    "number": 251,
+    "device": "Xiaomi 2412DPC0AG",
+    "joined_at": "2026-05-17 04:37:31"
   }
 ]
