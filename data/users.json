@@ -1463,5 +1463,10 @@
     "number": 293,
     "device": "Xiaomi Redmi 6 Pro",
     "joined_at": "2026-05-18 09:23:37"
+  },
+  {
+    "number": 294,
+    "device": "realme RMX3785",
+    "joined_at": "2026-05-18 09:41:18"
   }
 ]
