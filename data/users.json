@@ -1443,5 +1443,10 @@
     "number": 289,
     "device": "HONOR DNP-NX9",
     "joined_at": "2026-05-18 08:20:53"
+  },
+  {
+    "number": 290,
+    "device": "Xiaomi 23073RPBFG",
+    "joined_at": "2026-05-18 07:55:28"
   }
 ]
