@@ -1543,5 +1543,10 @@
     "number": 309,
     "device": "realme RMX5051",
     "joined_at": "2026-05-18 18:11:05"
+  },
+  {
+    "number": 310,
+    "device": "ZTE KT2",
+    "joined_at": "2026-05-18 17:10:02"
   }
 ]
