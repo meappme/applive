@@ -1493,5 +1493,10 @@
     "number": 299,
     "device": "TCL Smart TV Pro",
     "joined_at": "2026-05-18 12:02:35"
+  },
+  {
+    "number": 300,
+    "device": "Xiaomi 24115RA8EI",
+    "joined_at": "2026-05-18 12:07:24"
   }
 ]
