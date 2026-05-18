@@ -1523,5 +1523,10 @@
     "number": 305,
     "device": "samsung SM-G998B",
     "joined_at": "2026-05-18 16:33:32"
+  },
+  {
+    "number": 306,
+    "device": "Google Pixel 6a",
+    "joined_at": "2026-05-18 16:46:26"
   }
 ]
