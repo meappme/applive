@@ -1423,5 +1423,10 @@
     "number": 285,
     "device": "realme RMX5110",
     "joined_at": "2026-05-18 07:02:01"
+  },
+  {
+    "number": 286,
+    "device": "OPPO CPH2083",
+    "joined_at": "2026-05-18 07:03:27"
   }
 ]
