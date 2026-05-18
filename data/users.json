@@ -1508,5 +1508,10 @@
     "number": 302,
     "device": "HONOR CRT-LX1",
     "joined_at": "2026-05-18 11:34:36"
+  },
+  {
+    "number": 303,
+    "device": "samsung SM-M556B",
+    "joined_at": "2026-05-18 07:42:11"
   }
 ]
