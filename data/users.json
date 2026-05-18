@@ -1528,5 +1528,10 @@
     "number": 306,
     "device": "Google Pixel 6a",
     "joined_at": "2026-05-18 16:46:26"
+  },
+  {
+    "number": 307,
+    "device": "Google X96MATE_PLUS",
+    "joined_at": "2026-05-18 12:53:56"
   }
 ]
