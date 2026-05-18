@@ -1453,5 +1453,10 @@
     "number": 291,
     "device": "Xiaomi M2102J20SI",
     "joined_at": "2026-05-18 08:43:50"
+  },
+  {
+    "number": 292,
+    "device": "realme RMX3933",
+    "joined_at": "2026-05-18 09:29:27"
   }
 ]
