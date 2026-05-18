@@ -1513,5 +1513,10 @@
     "number": 303,
     "device": "samsung SM-M556B",
     "joined_at": "2026-05-18 07:42:11"
+  },
+  {
+    "number": 304,
+    "device": "OPPO CPH2531",
+    "joined_at": "2026-05-18 16:15:50"
   }
 ]
