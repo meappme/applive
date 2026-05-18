@@ -1563,5 +1563,10 @@
     "number": 313,
     "device": "Sony BRAVIA 4K GB",
     "joined_at": "2026-05-18 17:50:34"
+  },
+  {
+    "number": 314,
+    "device": "realme RMX3231",
+    "joined_at": "2026-05-18 21:27:42"
   }
 ]
