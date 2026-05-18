@@ -1488,5 +1488,10 @@
     "number": 298,
     "device": "Xiaomi 2201117TY",
     "joined_at": "2026-05-18 07:25:42"
+  },
+  {
+    "number": 299,
+    "device": "TCL Smart TV Pro",
+    "joined_at": "2026-05-18 12:02:35"
   }
 ]
