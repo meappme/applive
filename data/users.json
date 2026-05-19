@@ -1598,5 +1598,10 @@
     "number": 320,
     "device": "samsung SM-A127F",
     "joined_at": "2026-05-19 01:11:32"
+  },
+  {
+    "number": 321,
+    "device": "Google Pixel 7",
+    "joined_at": "2026-05-19 05:44:01"
   }
 ]
