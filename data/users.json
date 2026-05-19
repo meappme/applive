@@ -1608,5 +1608,10 @@
     "number": 322,
     "device": "Xiaomi 21091116C",
     "joined_at": "2026-05-19 11:50:10"
+  },
+  {
+    "number": 323,
+    "device": "vivo V2111",
+    "joined_at": "2026-05-19 12:44:59"
   }
 ]
