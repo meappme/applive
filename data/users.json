@@ -1673,5 +1673,10 @@
     "number": 335,
     "device": "motorola moto g54 5G",
     "joined_at": "2026-05-20 11:36:13"
+  },
+  {
+    "number": 336,
+    "device": "motorola moto g57 power",
+    "joined_at": "2026-05-20 20:15:16"
   }
 ]
