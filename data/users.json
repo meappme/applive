@@ -1663,5 +1663,10 @@
     "number": 333,
     "device": "samsung SM-S931W",
     "joined_at": "2026-05-20 12:51:21"
+  },
+  {
+    "number": 334,
+    "device": "samsung SM-S918B",
+    "joined_at": "2026-05-20 13:00:09"
   }
 ]
