@@ -1638,5 +1638,10 @@
     "number": 328,
     "device": "samsung SM-G990B",
     "joined_at": "2026-05-20 04:05:49"
+  },
+  {
+    "number": 329,
+    "device": "Xiaomi 24116RACCG",
+    "joined_at": "2026-05-20 08:23:28"
   }
 ]
