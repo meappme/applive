@@ -1653,5 +1653,10 @@
     "number": 331,
     "device": "Xiaomi M2101K6G",
     "joined_at": "2026-05-20 10:24:11"
+  },
+  {
+    "number": 332,
+    "device": "Xiaomi MiTV-AFMU0",
+    "joined_at": "2026-05-20 10:27:59"
   }
 ]
