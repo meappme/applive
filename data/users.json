@@ -1723,5 +1723,10 @@
     "number": 345,
     "device": "samsung SM-A107F",
     "joined_at": "٢٠٢٦-٠٥-٢٤ ١٧:٤٤:٠٠"
+  },
+  {
+    "number": 346,
+    "device": "samsung SM-S928B",
+    "joined_at": "٢٠٢٦-٠٥-٢٤ ٢٣:٤١:٢٠"
   }
 ]
