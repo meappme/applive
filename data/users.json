@@ -1733,5 +1733,10 @@
     "number": 347,
     "device": "samsung SM-A715F",
     "joined_at": "2026-05-25 08:38:41"
+  },
+  {
+    "number": 348,
+    "device": "vivo I2301",
+    "joined_at": "2026-05-26 01:38:07"
   }
 ]
