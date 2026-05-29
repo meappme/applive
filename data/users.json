@@ -1768,5 +1768,10 @@
     "number": 354,
     "device": "Allwinner evo box",
     "joined_at": "2026-05-28 20:25:20"
+  },
+  {
+    "number": 355,
+    "device": "OTA_PACK_GDYM-2025185C-AN15-2G+16G AndroidTV",
+    "joined_at": "٢٠٢٦-٠٥-٢٩ ١٨:٥٣:٥٥"
   }
 ]
