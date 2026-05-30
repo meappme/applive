@@ -1793,5 +1793,10 @@
     "number": 359,
     "device": "TECNO TECNO CM7",
     "joined_at": "2026-05-30 18:57:12"
+  },
+  {
+    "number": 360,
+    "device": "samsung SM-S928B",
+    "joined_at": "2026-05-30 21:48:41"
   }
 ]
