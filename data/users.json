@@ -1823,5 +1823,10 @@
     "number": 365,
     "device": "samsung SM-S938B",
     "joined_at": "٢٠٢٦-٠٦-٠٢ ٠٠:١٠:٤٧"
+  },
+  {
+    "number": 366,
+    "device": "OPPO CPH2043",
+    "joined_at": "2026-06-04 04:43:09"
   }
 ]
