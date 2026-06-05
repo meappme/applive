@@ -1878,5 +1878,10 @@
     "number": 376,
     "device": "HUAWEI AQM-LX1",
     "joined_at": "٢٠٢٦-٠٦-٠٥ ١١:٠٩:٣٩"
+  },
+  {
+    "number": 377,
+    "device": "Google VISION XS107MINI",
+    "joined_at": "2026-06-05 15:24:07"
   }
 ]
