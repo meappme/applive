@@ -1883,5 +1883,10 @@
     "number": 377,
     "device": "Google VISION XS107MINI",
     "joined_at": "2026-06-05 15:24:07"
+  },
+  {
+    "number": 378,
+    "device": "samsung SM-M315F",
+    "joined_at": "2026-06-05 20:35:57"
   }
 ]
