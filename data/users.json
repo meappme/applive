@@ -2153,5 +2153,10 @@
     "number": 431,
     "device": "HONOR PTP-AN10",
     "joined_at": "2026-06-14 09:55:55"
+  },
+  {
+    "number": 432,
+    "device": "Xiaomi 23021RAAEG",
+    "joined_at": "2026-06-14 09:56:05"
   }
 ]
