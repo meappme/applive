@@ -2478,5 +2478,10 @@
     "number": 496,
     "device": "HUAWEI STK-L21",
     "joined_at": "٢٠٢٦-٠٦-١٥ ٠٠:١٧:٤٧"
+  },
+  {
+    "number": 497,
+    "device": "samsung SM-S938U",
+    "joined_at": "2026-06-14 17:22:33"
   }
 ]
