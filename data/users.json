@@ -2148,5 +2148,10 @@
     "number": 430,
     "device": "MTK SMART_TV",
     "joined_at": "٢٠٢٦-٠٦-١٤ ١١:٥٤:٠٤"
+  },
+  {
+    "number": 431,
+    "device": "HONOR PTP-AN10",
+    "joined_at": "2026-06-14 09:55:55"
   }
 ]
