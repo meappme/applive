@@ -2318,5 +2318,10 @@
     "number": 464,
     "device": "HUAWEI JNY-LX1",
     "joined_at": "2026-06-14 14:36:30"
+  },
+  {
+    "number": 465,
+    "device": "realme RMX3997",
+    "joined_at": "2026-06-14 12:37:35"
   }
 ]
