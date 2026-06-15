@@ -2553,5 +2553,10 @@
     "number": 511,
     "device": "samsung SM-M558B",
     "joined_at": "2026-06-15 20:09:15"
+  },
+  {
+    "number": 512,
+    "device": "BOMA_V2_8G TV348_DVB",
+    "joined_at": "2026-06-15 20:10:12"
   }
 ]
