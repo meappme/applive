@@ -2558,5 +2558,10 @@
     "number": 512,
     "device": "BOMA_V2_8G TV348_DVB",
     "joined_at": "2026-06-15 20:10:12"
+  },
+  {
+    "number": 513,
+    "device": "Xiaomi M2101K7AG",
+    "joined_at": "2026-06-15 21:07:27"
   }
 ]
