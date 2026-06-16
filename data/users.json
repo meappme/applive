@@ -2628,5 +2628,10 @@
     "number": 526,
     "device": "HUAWEI STK-L21",
     "joined_at": "٢٠٢٦-٠٦-١٧ ٠٠:٠٧:١٠"
+  },
+  {
+    "number": 527,
+    "device": "samsung SM-X920",
+    "joined_at": "٢٠٢٦-٠٦-١٧ ٠٠:٤٥:٠٧"
   }
 ]
