@@ -2838,5 +2838,10 @@
     "number": 568,
     "device": "RockChip H96_Max_M1",
     "joined_at": "2026-06-21 23:03:00"
+  },
+  {
+    "number": 569,
+    "device": "HONOR GFY-LX2P",
+    "joined_at": "2026-06-22 04:17:37"
   }
 ]
