@@ -3593,5 +3593,10 @@
     "number": 719,
     "device": "Xiaomi 23078PND5G",
     "joined_at": "٢٠٢٦-٠٦-٢٣ ١٥:٤٩:٢٣"
+  },
+  {
+    "number": 720,
+    "device": "Amlogic p230",
+    "joined_at": "٢٠٢٦-٠٦-٢٣ ١٥:٤٩:٤٨"
   }
 ]
