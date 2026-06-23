@@ -3493,5 +3493,10 @@
     "number": 699,
     "device": "Xiaomi 24095PCADG",
     "joined_at": "2026-06-23 10:07:30"
+  },
+  {
+    "number": 700,
+    "device": "realme RMX3701",
+    "joined_at": "2026-06-23 10:11:49"
   }
 ]
