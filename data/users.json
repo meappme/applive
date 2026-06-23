@@ -3598,5 +3598,10 @@
     "number": 720,
     "device": "Amlogic p230",
     "joined_at": "٢٠٢٦-٠٦-٢٣ ١٥:٤٩:٤٨"
+  },
+  {
+    "number": 721,
+    "device": "Xiaomi Redmi Note 7",
+    "joined_at": "٢٠٢٦-٠٦-٢٣ ١٦:٢٠:٠١"
   }
 ]
