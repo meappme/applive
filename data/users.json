@@ -3918,5 +3918,10 @@
     "number": 784,
     "device": "HUAWEI YAL-L21",
     "joined_at": "2026-06-24 20:09:43"
+  },
+  {
+    "number": 785,
+    "device": "HONOR MTN-NX1",
+    "joined_at": "2026-06-24 22:33:58"
   }
 ]
