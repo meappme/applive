@@ -3838,5 +3838,10 @@
     "number": 768,
     "device": "HONOR ALI-AN00",
     "joined_at": "2026-06-24 14:41:09"
+  },
+  {
+    "number": 769,
+    "device": "HONOR MTN-NX1",
+    "joined_at": "2026-06-24 14:44:22"
   }
 ]
