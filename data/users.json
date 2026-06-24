@@ -3913,5 +3913,10 @@
     "number": 783,
     "device": "HUAWEI TXZ-W09",
     "joined_at": "٢٠٢٦-٠٦-٢٤ ٢٢:٠٥:٠٢"
+  },
+  {
+    "number": 784,
+    "device": "HUAWEI YAL-L21",
+    "joined_at": "2026-06-24 20:09:43"
   }
 ]
