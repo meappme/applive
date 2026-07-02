@@ -4533,5 +4533,10 @@
     "number": 907,
     "device": "Xiaomi 2410FPCC5G",
     "joined_at": "2026-07-02 14:18:17"
+  },
+  {
+    "number": 908,
+    "device": "RockChip H96_Max_M1",
+    "joined_at": "2026-07-02 16:13:55"
   }
 ]
