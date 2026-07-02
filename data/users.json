@@ -4538,5 +4538,10 @@
     "number": 908,
     "device": "RockChip H96_Max_M1",
     "joined_at": "2026-07-02 16:13:55"
+  },
+  {
+    "number": 909,
+    "device": "samsung NX769J",
+    "joined_at": "2026-07-02 23:12:23"
   }
 ]
