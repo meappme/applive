@@ -4648,5 +4648,10 @@
     "number": 930,
     "device": "Xiaomi 22101320G",
     "joined_at": "2026-07-08 15:08:25"
+  },
+  {
+    "number": 931,
+    "device": "Amlogic p231",
+    "joined_at": "2026-07-09 10:03:06"
   }
 ]
