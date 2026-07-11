@@ -4663,5 +4663,10 @@
     "number": 933,
     "device": "Xiaomi M2004J19C",
     "joined_at": "٢٠٢٦-٠٧-١١ ٠٦:٣١:٤٢"
+  },
+  {
+    "number": 934,
+    "device": "Amlogic p231",
+    "joined_at": "2026-07-11 19:57:01"
   }
 ]
