@@ -4753,5 +4753,10 @@
     "number": 951,
     "device": "TECNO MOBILE LIMITED TECNO LE7",
     "joined_at": "٢٠٢٦-٠٧-٢١ ١٥:٢٢:٣١"
+  },
+  {
+    "number": 952,
+    "device": "Allwinner dolphin",
+    "joined_at": "٢٠٢٦-٠٧-٢٤ ٠١:٣٥:٥٢"
   }
 ]
